@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ltanxgzg05v1dhsoblyp",
+    "products": [
+      {
+        "product": 1,
+        "quantity": 2
+      },
+      {
+        "product": 2,
+        "quantity": 0
+      },
+      {
+        "product": 3,
+        "quantity": 0
+      }
+    ]
+  }
+]

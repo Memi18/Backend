@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Essen xx",
+    "description": "222",
+    "price": 19.99,
+    "thumbnail": "sdsd",
+    "code": "4123",
+    "stock": 10,
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Essen 11",
+    "description": "222",
+    "price": 19.99,
+    "thumbnail": "sdsd",
+    "code": "43232",
+    "stock": 10,
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Essen 33",
+    "description": "222",
+    "price": 19.99,
+    "thumbnail": "sdsd",
+    "code": "44123122",
+    "stock": 10,
+    "status": true
+  }
+]
